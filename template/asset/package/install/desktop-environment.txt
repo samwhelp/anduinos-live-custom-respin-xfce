@@ -15,7 +15,7 @@ xfce4
 xfce4-goodies
 
 
-xfce-polkit
+##xfce-polkit
 
 
 xfce4-power-manager
